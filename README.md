@@ -1,2 +1,2 @@
 # EarthquakeSimCompeGame
-A simple MIPs baed grid game
+A simple MIPs based grid game
